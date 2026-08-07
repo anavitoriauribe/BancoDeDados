@@ -78,4 +78,4 @@ graph TD
 A[SGBD - PostgreSQL] -->B[(Bancos de Dados)]
 A--> C[Armazena usuários]
 A--> D[Realiza consulta]
-A--> E[Controla acessos]
+A--> E[Controla acessos].
