@@ -18,7 +18,7 @@ O Moba será a interface para acesso ao meu servidor de desenvolvimento.
 >O acesso será realizado via SSH.
  
 >IP da máquina: `192.168.10.77`. Username: `root`. Porta: `2222`.
-senha #A...
+senha ---
 ---
 - Para acessar usamos a senha:
 >aluno01
